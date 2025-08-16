@@ -32,6 +32,9 @@ func main() {
 	initializeSystem()
 	// 运行服务器
 	core.RunServer()
+
+	// 在 main.go 最后
+
 }
 
 // initializeSystem 初始化系统所有组件
